@@ -14,26 +14,22 @@ Welcome to my portfolio repository! 👩‍💻 This project showcases my skills
 
 Here are some of the projects included in my portfolio:
 
-1. **[Project One: E-Commerce App](https://github.com/yourusername/ecommerce-project)**  
-   An e-commerce platform developed with React and integrated with a payment gateway for a seamless shopping experience.
+1. **[Project One: Chatting Application](https://github.com/ApekshaMore//Chatting-Application)**  
+   An chatting platform developed connecting to pepole and seeemless chatting experience.
 
-2. **[Project Two: Task Manager App](https://github.com/yourusername/task-manager-project)**  
-   A task management tool designed to boost productivity, built with React Native for mobile users.
+2. **[Project Two: Covid Tracker](https://github.com/ApekshaMore/CovidTracker)**  
+   A management tool designed to check track of covid cases.
 
-3. **[Project Three: Weather Forecast App](https://github.com/yourusername/weather-app)**  
-   A weather forecasting application using real-time weather data from public APIs.
+3. **[Project Three: /Fitness Club Project](https://github.com/ApekshaMore//FitnessClubProject)**  
+   A Fitness Club application for managing gym memberships and product list and selling.
 
-## 📱 Mobile Experience
 
-The mobile version of my portfolio showcases my expertise in **React Native**, allowing users to explore projects on any device.
-
-Try it out: [Download the App](https://play.google.com/store/apps/details?id=com.yourappname) 📲
 
 ## 🔧 Technologies Used
 
 - **Frontend**: React, React Native, JavaScript (ES6+)
 - **Backend**: Node.js, Express
-- **Database**: MongoDB, Firebase
+- **Database**: Firebase
 - **Version Control**: Git, GitHub
 - **Other Tools**: VSCode, Postman, Redux, Jest
 
@@ -46,6 +42,6 @@ Check out the live demo of my portfolio:
 
 Feel free to reach out if you'd like to collaborate or discuss potential opportunities!
 
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/yourusername/)  
-- **GitHub**: [Explore more projects](https://github.com/yourusername)  
-- **Email**: [Drop a message](mailto:your.email@example.com) ✉️
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/apekshamore/)  
+- **GitHub**: [Explore more projects](https://github.com/ApekshaMore)  
+- **Email**: [Drop a message](mailto:apekshamore44@email@example.com) ✉️
