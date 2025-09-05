@@ -14,13 +14,13 @@ Welcome to my portfolio repository! 👩‍💻 This project showcases my skills
 
 Here are some of the projects included in my portfolio:
 
-1. **[Project One: Chatting Application](https://github.com/ApekshaMore//Chatting-Application)**  
+1. **[Project One: Chatting Application](https://github.com/ApekshaMore/Chatting-Application)**  
    An chatting platform developed connecting to pepole and seeemless chatting experience.
 
 2. **[Project Two: Covid Tracker](https://github.com/ApekshaMore/CovidTracker)**  
    A management tool designed to check track of covid cases.
 
-3. **[Project Three: /Fitness Club Project](https://github.com/ApekshaMore//FitnessClubProject)**  
+3. **[Project Three: /Fitness Club Project](https://github.com/ApekshaMore/FitnessClubProject)**  
    A Fitness Club application for managing gym memberships and product list and selling.
 
 
@@ -28,15 +28,13 @@ Here are some of the projects included in my portfolio:
 ## 🔧 Technologies Used
 
 - **Frontend**: React, React Native, JavaScript (ES6+)
-- **Backend**: Node.js, Express
 - **Database**: Firebase
 - **Version Control**: Git, GitHub
-- **Other Tools**: VSCode, Postman, Redux, Jest
 
 ## 🌈 Live Demo
 
 Check out the live demo of my portfolio:  
-👉 [Visit My Portfolio](https://your-portfolio-link.com) 🌐
+👉 [Visit My Portfolio](https://portfolio-apeksha.web.app) 🌐
 
 ## 📬 Get in Touch
 
@@ -44,4 +42,4 @@ Feel free to reach out if you'd like to collaborate or discuss potential opportu
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/apekshamore/)  
 - **GitHub**: [Explore more projects](https://github.com/ApekshaMore)  
-- **Email**: [Drop a message](mailto:apekshamore44@email@example.com) ✉️
+- **Email**: [Drop a message](mailto:apekshamore44@gmail.com) ✉️
